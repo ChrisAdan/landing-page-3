@@ -14,7 +14,7 @@ a {
   text-decoration: none;
 }
 
-svg.logo {
+svg.icon {
   height: 25px;
   width: 25px;
 }
@@ -109,4 +109,71 @@ nav {
 .headlines-app-icon {
   height: 150px;
   width: 150px;
+}
+
+.features-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.features-grid-container {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.features-grid-row {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+}
+.features-grid-card {
+  display: flex;
+  flex-direction: column;
+  max-width: 40%;
+  border: 1px solid black;
+}
+
+.features-grid-content {
+  flex: 1;
+}
+
+.features-grid-image {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.features-grid-image img {
+  width: 80%;
+}
+
+.collaborate-container {
+  display: flex;
+  gap: 12px;
+}
+
+.collaborate-information {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  gap: 12px;
+}
+
+.collaborate-content {
+  flex: 1 1 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.collaborate-content-item {
+  display: flex;
+  gap: 12px;
+}
+
+.collaborate-image img {
+  width: 100%;
 }
