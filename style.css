@@ -177,3 +177,81 @@ nav {
 .collaborate-image img {
   width: 100%;
 }
+
+.creativity-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  gap: 24px;
+}
+
+.creativity-card-row {
+  display: flex;
+  gap: 16px;
+}
+.creativity-card {
+  flex-basis: 33%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.creativity-card-content {
+}
+
+.creativity-image {
+  margin: auto;
+}
+
+.creativity-links {
+  text-align: center;
+}
+
+.creativity-container a {
+  text-decoration: underline;
+}
+
+.further-links-container {
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+}
+
+.further-links-headline {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  justify-content: center;
+  align-items: center;
+}
+
+.further-links-card-row {
+  display: flex;
+  gap: 12px;
+}
+
+.further-links-card {
+  flex: 1;
+  outline: 1px solid black;
+}
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-socials-container ul {
+  display: flex;
+  gap: 12px;
+}
+
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  row-gap: 24px;
+}
+
+.footer-links-card {
+  flex: 0 1 33%;
+}
