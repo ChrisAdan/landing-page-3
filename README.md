@@ -1,4 +1,4 @@
-# landing-page-3
+# Onyx
 
 Static HTML &amp; CSS Landing page for a fictional note taking app. Site design largely copied from the lovely homepage of [Obsidian](https://obsidian.md/)
 
