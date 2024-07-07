@@ -12,6 +12,6 @@ Obviously, Onyx does not exist. But for this practice, I really like the dark an
 
 ### Sourcing
 
-Illustrations via [unDraw](https://undraw.co/illustrations)
-Icons via [HeroIcons](https://heroicons.com/)
-Site structure largely cribbed from [Obsidian](https://obsidian.md)
+- Illustrations via [unDraw](https://undraw.co/illustrations)
+- Icons via [HeroIcons](https://heroicons.com/)
+- Site structure largely cribbed from [Obsidian](https://obsidian.md)
